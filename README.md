@@ -2,6 +2,6 @@
 calculates nucleotide diversity (pi) from a multiple sequence alignment fasta file
 
 
-`Usage: calculate_pi.pl MSA.fasta`
+`Usage: calculate_pi_MSA.pl MSA.fasta`
 
 `Supply a multiple sequence alignment fasta file as the first argument and the script outputs pi`
